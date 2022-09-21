@@ -15,8 +15,6 @@ body {
   background: var(--shade-of-black);
   border: 1px 0 0 solid var(--color);
   box-shadow: #fffb04 .1rem .1rem .3rem;
-  /* display: none; */
-  
 }
 
 .navbar i {
